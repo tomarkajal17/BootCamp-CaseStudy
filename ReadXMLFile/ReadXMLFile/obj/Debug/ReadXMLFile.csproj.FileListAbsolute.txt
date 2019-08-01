@@ -1,0 +1,8 @@
+C:\Users\320067257\source\repos\ReadXMLFile\ReadXMLFile\bin\Debug\ReadXMLFile.exe.config
+C:\Users\320067257\source\repos\ReadXMLFile\ReadXMLFile\bin\Debug\ReadXMLFile.exe
+C:\Users\320067257\source\repos\ReadXMLFile\ReadXMLFile\bin\Debug\ReadXMLFile.pdb
+C:\Users\320067257\source\repos\ReadXMLFile\ReadXMLFile\obj\Debug\ReadXMLFile.csprojAssemblyReference.cache
+C:\Users\320067257\source\repos\ReadXMLFile\ReadXMLFile\obj\Debug\ReadXMLFile.csproj.CoreCompileInputs.cache
+C:\Users\320067257\source\repos\ReadXMLFile\ReadXMLFile\obj\Debug\ReadXMLFile.exe
+C:\Users\320067257\source\repos\ReadXMLFile\ReadXMLFile\obj\Debug\ReadXMLFile.pdb
+C:\Users\320067257\source\repos\ReadXMLFile\ReadXMLFile\obj\Debug\ReadXMLFile.csproj.ResolveComReference.cache
